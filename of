@@ -1,0 +1,25 @@
+=> [32m#<LinkedList:0x0000559ab8b36a98[0m
+ @head[32m=[0m
+  [32m#<Node:0x0000559ab8b36a48[0m
+   @next[32m=[0m
+    [32m#<Node:0x0000559ab8b36a70[0m
+     @next[32m=[0m
+      [32m#<Node:0x0000559ab8a71ec8[0m
+       @next[32m=[0m
+        [32m#<Node:0x0000559ab87c9518[0m
+         @next[32m=[0m
+          [32m#<Node:0x0000559ab8b36a20[0m
+           @next[32m=[0m
+            [32m#<Node:0x0000559ab8b369d0[0m
+             @next[32m=[0m
+              [32m#<Node:0x0000559ab8b369a8[0m
+               @next[32m=[0m[32m#<Node:0x0000559ab8b36980[0m @next[32m=[0m[1;36mnil[0m, @value[32m=[0m[1;34m7[0m[32m>[0m,
+               @value[32m=[0m[1;34m6[0m[32m>[0m,
+             @value[32m=[0m[1;34m5[0m[32m>[0m,
+           @value[32m=[0m[1;34m3[0m[32m>[0m,
+         @value[32m=[0m[1;34m4[0m[32m>[0m,
+       @value[32m=[0m[1;34m4[0m[32m>[0m,
+     @value[32m=[0m[1;34m2[0m[32m>[0m,
+   @value[32m=[0m[1;34m1[0m[32m>[0m,
+ @nodes[32m=[0m[1;34m8[0m,
+ @tail[32m=[0m[32m#<Node:0x0000559ab8b36980[0m @next[32m=[0m[1;36mnil[0m, @value[32m=[0m[1;34m7[0m[32m>[0m[32m>[0m
